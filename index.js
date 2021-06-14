@@ -8,6 +8,7 @@ function writeCards(names, event) {
     return newArr;
 }
 
+
 writeCards('name', 'event');
 
 function countDown(init = 10) {
